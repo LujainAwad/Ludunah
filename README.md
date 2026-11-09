@@ -73,7 +73,7 @@ Users adjust their self-reported energy level, and Ludunah presents challenges t
 
 Each challenge introduces its purpose, estimated duration, and the cognitive skills it is designed to engage.
 
-<img src="screenshots/03-challenge-details.jpeg" width="270" alt="Challenge details screen">
+<img src="screenshots/ 03-challenge-details.jpeg" width="270" alt="Challenge details screen">
 
 ### 4. Engage in an Activity
 
