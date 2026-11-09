@@ -87,6 +87,19 @@ Completed challenges are reflected in the user's weekly activity progress.
 
 <img src="screenshots/05-progress.jpeg" width="270" alt="Weekly progress screen">
 
+## Source Code
+
+Ludunah was developed collaboratively by Team 12
+at Apple Developer Academy.
+
+The application source code is available in
+the original team repository:
+
+[View Original Source Code](https://github.com/athly1/LudunahApp)
+
+A personal fork is also maintained to preserve
+the project and its development history.
+
 ---
 
 ## Design & Development
